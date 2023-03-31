@@ -1,0 +1,23 @@
+.formSearch {
+    width: 100%;
+    margin: 0 auto;
+    /* position: absolute; */
+    /* top: 40%; */
+    /* left: 10%; */
+}
+
+.formSearch form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.formSearch form input {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 1rem;
+    height: 3rem;
+    border-bottom: 2px solid rgb(66, 61, 61);
+    color: aliceblue;
+}
