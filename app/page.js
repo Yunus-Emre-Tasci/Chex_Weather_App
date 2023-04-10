@@ -31,15 +31,15 @@ export default function Home() {
         {showLoading &&<Animation/>}
       {
         !showLoading&&(
-          <div className='app'>
+      <div className='app'>
         <div className='flex justify-between p-2'>
           <CurrentWeather/>
           <Logo/>
         </div>
         <Social/>
-      <Weather/>
-      <ToastContainer/>
-      <ScrollToTop/>
+        <Weather/>
+        <ToastContainer/>
+        <ScrollToTop/>
       </div>
         )
       }
