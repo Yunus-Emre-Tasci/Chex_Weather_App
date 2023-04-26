@@ -6,7 +6,7 @@ const Animation = () => {
     <>
       <div className="container">
         <h1 className="welcome sm:text-5xl lg:text-6xl xl:text-7xl">
-          Welcome to <span>Chex</span> Weather App
+          Welcome to <span>Next</span> Weather App
         </h1>
 
         <div className="bird-container bird-container--one">

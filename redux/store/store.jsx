@@ -21,7 +21,7 @@ const persistedReducer = persistReducer(persistConfig, fetchSlice);
 
 const store = configureStore({
   reducer: {
-    lastfm: persistedReducer,
+    weather: persistedReducer,
   },
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
