@@ -28,5 +28,6 @@ pnpm dev
 
 
 
-https://user-images.githubusercontent.com/109620221/229198759-373ed1b7-41c4-479f-a6a6-44edafd6b4ea.mp4
+
+https://user-images.githubusercontent.com/109620221/234599278-ff8af0d7-289b-4998-ac05-d90e0be10bf9.mp4
 
